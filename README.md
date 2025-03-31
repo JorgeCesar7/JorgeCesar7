@@ -1,6 +1,6 @@
 👋 Hey there! I'm Alejandro
 
-💻 Full-Stack Developer | Cloud Enthusiast | SEO Specialist
+💻 Front-end Development | Cloud Enthusiast | SEO Specialist
 
 🛠️ Skilled in HTML/CSS, SQL, AWS and Linux
 
